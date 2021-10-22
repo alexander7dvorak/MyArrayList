@@ -1,5 +1,6 @@
-package com.company;
+package test.java;
 
+import com.company.MyArrayList;
 import org.junit.Test;
 
 import java.util.Arrays;
